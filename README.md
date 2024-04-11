@@ -44,6 +44,7 @@ One issue that emerged on the itjobxs.com website was the proliferation of fake 
 - PHP
 - MySQL
 
-## CONTRIBUTOR
+## CONTRIBUTORS
 
+- Kumar K Sir
 - [Bhavdeep Singh Nijhawan](https://www.linkedin.com/in/bhavdeep-singh-nijhawan-739634280)
