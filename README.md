@@ -30,6 +30,9 @@ One issue that emerged on the itjobxs.com website was the proliferation of fake 
 - Modified the registration process to validate email domains against the hashmap, rejecting those not present.
 - Integrated Google reCAPTCHA into the website's registration form to further enhance security and prevent bot registrations.
 
+```
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+```
 ### OUTCOME
 
 - By implementing the final solution, we significantly reduced the presence of fake accounts on itjobxs.com.
