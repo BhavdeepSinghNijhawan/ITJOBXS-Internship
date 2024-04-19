@@ -34,6 +34,10 @@ One issue that emerged on the itjobxs.com website was the proliferation of fake 
 - Modified the registration process to validate email domains against the hashmap, rejecting those not present.
 - Integrated Google reCAPTCHA into the website's registration form to further enhance security and prevent bot registrations.
 
+```
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+```
+
 <div align="center">
   <img src="https://github.com/BhavdeepSinghNijhawan/ITJOBXS-Internship/assets/143419096/fa64e06f-f8e8-4f15-9e5c-e1fb4d2fce3d" alt="Image">
 </div>
@@ -41,10 +45,6 @@ One issue that emerged on the itjobxs.com website was the proliferation of fake 
 <div align="center">
   <img src="https://github.com/BhavdeepSinghNijhawan/ITJOBXS-Internship/assets/143419096/95c5a1aa-4052-4b03-a701-56ecdeed3c71" alt="Image">
 </div>
-
-```
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-```
 
 #### FORM
 
