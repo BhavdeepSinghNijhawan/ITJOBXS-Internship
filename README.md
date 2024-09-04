@@ -70,7 +70,7 @@ One issue that emerged on the **`itjobxs.com`** website was the proliferation of
 ### OUTCOME
 
 - By implementing the final solution, the presence of fake accounts on **`itjobxs.com`** reduced significantly.
-- The integration of **Google reCAPTCHA** enhanced the website's security and ensured that only **genuine users could register*8, **improving the overall user experience**.
+- The integration of **Google reCAPTCHA** enhanced the website's security and ensured that only **genuine users could register**, **improving the overall user experience**.
 
 ## TECHNOLOGICAL STACKS
 
